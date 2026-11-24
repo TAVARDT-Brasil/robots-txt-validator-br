@@ -1,14 +1,13 @@
 # Validador de Robots.txt e Diretivas de Rastreamento | TAVARDT Brasil
 
 [![Validador Robots.txt](https://img.shields.io/badge/TAVARDT-Robots.txt-5b3cf5.svg)](https://tools.tavardt.com/br/validador-robots-txt/)
-[![Jurisdicao](https://img.shields.io/badge/Jurisdicao-Brasil-00C853.svg)](https://ag.tavardt.com/br/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Auditoria de arquivos robots.txt, deteccao de bloqueios indevidos de indexacao, analise de regras para bots de busca e IA, e checagem de declaracao de sitemap.
 
-Desenvolvido e mantido pela divisao de engenharia de busca e infraestrutura de rastreamento da **[TAVARDT Brasil](https://ag.tavardt.com/br/)**.
+Desenvolvido e mantido pela divisao de engenharia de busca e infraestrutura de rastreamento da **TAVARDT Brasil**.
 
----
+***
 
 ## Capacidades de Auditoria de Robots.txt
 
@@ -18,7 +17,7 @@ Desenvolvido e mantido pela divisao de engenharia de busca e infraestrutura de r
 * **Analise de Diretivas Especiais**: Validacao de `Crawl-delay`, `Allow` e mapeamento de rotas administrativas expostas.
 * **Indice de Eficiencia de Rastreamento**: Metrica quantitativa de 0 a 100 com alertas de configuracao priorizados.
 
----
+***
 
 ## Instalacao e Execucao
 
@@ -33,20 +32,20 @@ python robots_validator.py https://exemplo.com.br
 Para gerar a saida em formato estruturado JSON:
 
 ```bash
-python robots_validator.py https://exemplo.com.br --json
+python robots_validator.py https://exemplo.com.br -json
 ```
 
----
+***
 
 ## Diagnostico Completo na Web
 
 Para auditorias profundas e teste visual de regras de exclusao de robos:
 
-* **[Validador de Robots.txt Oficial](https://tools.tavardt.com/br/validador-robots-txt/)**
+* **Validador de Robots.txt Oficial**
 * **[Portal Corporativo TAVARDT Brasil](https://ag.tavardt.com/br/)**
 
----
+***
 
 ## Consultoria em Governanca de Rastreamento e SEO
 
-Para arquitetura avancada de rastreabilidade e conformidade com Protocolo de Exclusao de Robos e Diretrizes de Rastreamento, consulte a equipe da **[TAVARDT Brasil](https://ag.tavardt.com/br/contato/)**.
+Para arquitetura avancada de rastreabilidade e conformidade com Protocolo de Exclusao de Robos e Diretrizes de Rastreamento, consulte a equipe da **TAVARDT Brasil**.
