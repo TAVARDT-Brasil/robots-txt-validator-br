@@ -2,6 +2,7 @@
 
 [![Validador Robots.txt](https://img.shields.io/badge/TAVARDT-Robots.txt-5b3cf5.svg)](https://tools.tavardt.com/br/validador-robots-txt/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Auditoria de arquivos robots.txt, deteccao de bloqueios indevidos de indexacao, analise de regras para bots de busca e IA, e checagem de declaracao de sitemap.
 
@@ -49,6 +50,20 @@ Para auditorias profundas e teste visual de regras de exclusao de robos:
 ## Consultoria em Governanca de Rastreamento e SEO
 
 Para arquitetura avancada de rastreabilidade e conformidade com Protocolo de Exclusao de Robos e Diretrizes de Rastreamento, consulte a equipe da **TAVARDT**.
+
+***
+
+## Governança e Soberania
+
+* **Unidade Soberana**: **TAVARDT Brasil** (`TAVARDT-Brasil`)
+* **Normas Centrais**: [00-core Governança](https://github.com/TAVARDT-Brasil/00-core)
+* **Central de Diagnósticos**: **Central de Ferramentas TAVARDT**
+* **Segurança Corporativa**: [TAVARDT Cibersegurança](https://ag.tavardt.com/br/ciberseguranca/)
+
+***
+
+### Licença
+Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
 
 ***
 
