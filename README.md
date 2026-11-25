@@ -61,6 +61,8 @@ Para arquitetura avancada de rastreabilidade e conformidade com Protocolo de Exc
 
 ***
 
+***
+
 ### Licença
 Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
 
