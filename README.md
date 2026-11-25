@@ -6,8 +6,6 @@
 
 Auditoria de arquivos robots.txt, deteccao de bloqueios indevidos de indexacao, analise de regras para bots de busca e IA, e checagem de declaracao de sitemap.
 
-Desenvolvido e mantido pela divisao de engenharia de busca e infraestrutura de rastreamento da **TAVARDT**.
-
 ***
 
 ## Capacidades de Auditoria de Robots.txt
@@ -38,15 +36,6 @@ python robots_validator.py https://exemplo.com.br -json
 
 ***
 
-## Diagnostico Completo na Web
-
-Para auditorias profundas e teste visual de regras de exclusao de robos:
-
-* **Validador de Robots.txt Oficial**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/br/)**
-
-***
-
 ## Consultoria em Governanca de Rastreamento e SEO
 
 Para arquitetura avancada de rastreabilidade e conformidade com Protocolo de Exclusao de Robos e Diretrizes de Rastreamento, consulte a equipe da **TAVARDT**.
@@ -64,7 +53,7 @@ Para arquitetura avancada de rastreabilidade e conformidade com Protocolo de Exc
 ***
 
 ### Licença
-Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
+Distribuído sob a Licença MIT.
 
 ***
 
